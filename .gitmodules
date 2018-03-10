@@ -1,0 +1,3 @@
+[submodule "puff/themes/code-editor"]
+	path = puff/themes/code-editor
+	url = https://github.com/aubm/hugo-code-editor-theme.git
